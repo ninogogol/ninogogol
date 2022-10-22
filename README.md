@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Nino,
+## My name is Nino 👩🏻‍💻
 ## 🌱 I’m currently learning Web Development
 
 ![](https://github.com/ninogogol/my-portfolio/blob/main/149Z_2107.w015.n001.493B.p15.493.jpg?raw=true)
