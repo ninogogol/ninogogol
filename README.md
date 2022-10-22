@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Nino 👩🏻‍💻
-## 🌱 I’m currently learning Web Development Fundamentals
+## 🌱 I’m currently learning Web Development Fundamentals ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 ![](https://github.com/ninogogol/my-portfolio/blob/main/149Z_2107.w015.n001.493B.p15.493.jpg?raw=true)
 
