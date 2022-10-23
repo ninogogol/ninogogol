@@ -2,7 +2,7 @@
 ## My name is Nino 👩🏻‍💻
 ## 🌱 I’m currently learning Web Development Fundamentals HTML CSS JS
 
-![](https://github.com/ninogogol/my-portfolio/blob/main/149Z_2107.w015.n001.493B.p15.493.jpg?raw=true)
+![](https://github.com/ninogogol/ninogogol/blob/main/149Z_2107.w015.n001.493B.p15.493.jpg?raw=true)
 
 <!--
 **ninogogol/ninogogol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
