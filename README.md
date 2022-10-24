@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Nino 👩🏻‍💻
-## 🌱 I’m currently learning Web Development Fundamentals HTML CSS JS
+## 🌱 I’m currently learning Web Development HTML CSS JS
 
 ![](https://github.com/ninogogol/ninogogol/blob/main/149Z_2107.w015.n001.493B.p15.493.jpg?raw=true)
 
