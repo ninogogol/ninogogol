@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 ![](https://github.com/ninogogol/ninogogol/blob/main/coding.gif?raw=true)
 ## My name is Nino 👩🏻‍💻
 #### 🌱 I’m currently learning Web Development
 
-![](https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+
 
 <!--
 **ninogogol/ninogogol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
