@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ## My name is Nino 👩🏻‍💻
 #### 🌱 I’m currently learning Web Development
-![](https://github.com/ninogogol/ninogogol/blob/main/coding.gif?raw=true)
+![]()
 
 
 <!--
