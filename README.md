@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ## My name is Nino 👩🏻‍💻
-#### 🌱 I’m currently learning Web Development
+#### 🌱 I’m currently learning Software Development
 ![]()
 
 
